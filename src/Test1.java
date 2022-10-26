@@ -5,6 +5,7 @@ public class Test1 {
 		
 		System.out.println("Test1 added from eclipse");
 		System.out.println("Test1 added from BranchX");
+		System.out.println("Test1 added from Master to Branch");
 
 	}
 
